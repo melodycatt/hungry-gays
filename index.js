@@ -10,6 +10,8 @@ var contestants = [
     "placeholder6"
 ]
 
+// hi
+
 // Dont change this
 var contestantsInventory = [
 
