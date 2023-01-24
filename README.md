@@ -9,8 +9,8 @@
 - [x] Inventory tracking
 - [x] *Most* of what brantsteel has? 
 - [x] Open source and devlogs at [the voidpet discord](https://discord.gg/voidpet) in [#🏠 | hometown](https://bit.ly/3D9vQE3)
-- [] Health tracking (maybe one day idk)
-- [] A couple easter egg events 👀
+- [ ] Health tracking (maybe one day idk)
+- [ ] A couple easter egg events 👀
 
 Ill finish this later
 
